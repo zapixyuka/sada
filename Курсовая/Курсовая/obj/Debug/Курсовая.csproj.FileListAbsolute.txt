@@ -1,0 +1,13 @@
+C:\Users\Андрей\Desktop\универ\свободный\Курсовая\Курсовая\Курсовая\bin\Debug\Курсовая.exe.config
+C:\Users\Андрей\Desktop\универ\свободный\Курсовая\Курсовая\Курсовая\bin\Debug\Курсовая.exe
+C:\Users\Андрей\Desktop\универ\свободный\Курсовая\Курсовая\Курсовая\bin\Debug\Курсовая.pdb
+C:\Users\Андрей\Desktop\универ\свободный\Курсовая\Курсовая\Курсовая\obj\Debug\Курсовая.csproj.AssemblyReference.cache
+C:\Users\Андрей\Desktop\универ\свободный\Курсовая\Курсовая\Курсовая\obj\Debug\Курсовая.csproj.SuggestedBindingRedirects.cache
+C:\Users\Андрей\Desktop\универ\свободный\Курсовая\Курсовая\Курсовая\obj\Debug\Курсовая.Properties.Resources.resources
+C:\Users\Андрей\Desktop\универ\свободный\Курсовая\Курсовая\Курсовая\obj\Debug\Курсовая.csproj.GenerateResource.cache
+C:\Users\Андрей\Desktop\универ\свободный\Курсовая\Курсовая\Курсовая\obj\Debug\Курсовая.csproj.CoreCompileInputs.cache
+C:\Users\Андрей\Desktop\универ\свободный\Курсовая\Курсовая\Курсовая\obj\Debug\Курсовая.exe
+C:\Users\Андрей\Desktop\универ\свободный\Курсовая\Курсовая\Курсовая\obj\Debug\Курсовая.pdb
+C:\Users\Андрей\Desktop\универ\свободный\Курсовая\Курсовая\Курсовая\obj\Debug\Курсовая.Form1.resources
+C:\Users\Андрей\Desktop\универ\свободный\Курсовая\Курсовая\Курсовая\obj\Debug\Курсовая.View.Form2.resources
+C:\Users\Андрей\Desktop\универ\свободный\Курсовая\Курсовая\Курсовая\obj\Debug\Курсовая.View.Form3.resources
